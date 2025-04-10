@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [About](getting-started/about.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
