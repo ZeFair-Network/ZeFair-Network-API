@@ -1,7 +1,7 @@
 ---
 description: Welcome to the developer home of ZeFair Network API.
 cover: .gitbook/assets/2024-06-28_06.33.45.png
-coverY: 0
+coverY: -115.19405204460966
 layout:
   cover:
     visible: true
