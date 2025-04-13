@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # About
 
 The ZN's  API provides programmatic access to launcher creation technology, allowing you to create high quality launchers as both a web version and an app.
